@@ -1,0 +1,44 @@
+body{
+    text-align: center;
+    background-color: lightgreen;
+}
+.heading{
+    font-size: 20px;
+    font-family: arial black;
+}
+.see{
+    font-family: arial black;
+    font-size: 30px;
+
+}
+input{
+    width: 200px;
+    height: 30px;
+    border-radius: 15px;
+}
+.bee{
+    color: white;
+    background-color: crimson;
+    width: 80px;
+    height: 40px;
+    text-align: center;
+    border-radius: 15px;
+    cursor: pointer;
+    border: none;
+    
+    
+}
+.cee{
+    width: 200px;
+    height: 40px;
+    border-radius: 15px;
+}
+   
+.a{
+    text-decoration: none;
+    color: crimson;
+}
+.login_container{
+    margin-top: 250px;
+}
+
