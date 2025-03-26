@@ -1,14 +1,24 @@
+*{
+  /*  margin: 0px;
+    padding: 0px;
+    */
+}
+
 body{
     text-align: center;
-    background-color: lightgreen;
+    background-image: url('bg2.JPG');
+  
 }
 .heading{
     font-size: 20px;
     font-family: arial black;
+    color: white;
+    
 }
 .see{
     font-family: arial black;
     font-size: 30px;
+    color: white;
 
 }
 input{
@@ -39,6 +49,20 @@ input{
     color: crimson;
 }
 .login_container{
-    margin-top: 250px;
+    margin-top: 60px;
+    
+
 } 
+.bee:hover{
+    background-color: black;
+    color: #000000;
+}
+p{
+    color: white;
+}
+img{
+    width: 150px;
+    height: 150px;
+}
+
 
